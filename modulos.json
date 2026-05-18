@@ -1,7 +1,7 @@
 [
   {
     "id": "Seguidores",
-    "titulo_painel": "IMPULSIONAR_SEGUIDORES",
+    "titulo_painel": "SEGUIDORES_INSTAGRAM",
     "preco_base_1k": 224.28,
     "quantidade_minima": 1000,
     "aviso_regra": {
@@ -13,7 +13,7 @@
   },
   {
     "id": "Curtidas",
-    "titulo_painel": "IMPULSIONAR_CURTIDAS",
+    "titulo_painel": "CURTIDAS_INSTAGRAM",
     "preco_base_1k": 150.00,
     "quantidade_minima": 1000,
     "aviso_regra": {
@@ -25,7 +25,7 @@
   },
   {
     "id": "Visualizaçoes em reels",
-    "titulo_painel": "ALAVANCAR_REELS",
+    "titulo_painel": "VISUALIZAÇÕES_REELS_INSTAGRAM",
     "preco_base_1k": 198.00,
     "quantidade_minima": 1000,
     "aviso_regra": {
@@ -37,7 +37,7 @@
   },
   {
     "id": "Visualizaçoes em stories",
-    "titulo_painel": "ALAVANCAR_STORIES",
+    "titulo_painel": "VISUALIZAÇÕES_STORIES_INSTAGRAM",
     "preco_base_1k": 109.45,
     "quantidade_minima": 1000,
     "aviso_regra": {
@@ -49,7 +49,7 @@
   },
   {
     "id": "Comentarios",
-    "titulo_painel": "COMENTÁRIOS_POSITIVOS",
+    "titulo_painel": "COMENTÁRIOS_POSITIVOS_INSTAGRAM",
     "preco_base_1k": 3500.00,
     "quantidade_minima": 10,
     "aviso_regra": {
@@ -61,7 +61,7 @@
   },
   {
     "id": "VIP",
-    "titulo_painel": "SEGUIDORES_VIP_PREMIUM 💎",
+    "titulo_painel": "SEGUIDORES_VIP_PREMIUM_INSTAGRAM 💎",
     "preco_base_1k": 1121.40,
     "quantidade_minima": 1000,
     "aviso_regra": {
@@ -73,7 +73,7 @@
   },
   {
     "id": "Denuncias",
-    "titulo_painel": "DERRUBAR_CONTA (DENÚNCIAS)",
+    "titulo_painel": "DERRUBAR_CONTA (DENÚNCIAS)_INSTAGRAM",
     "preco_base_1k": 1478.87,
     "quantidade_minima": 500,
     "aviso_regra": {
